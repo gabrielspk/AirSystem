@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_Senai_Air_System", "Projeto_Senai_Air_System\Projeto_Senai_Air_System.csproj", "{1930CD54-B236-4AED-85C2-A3E5B6A7E9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1930CD54-B236-4AED-85C2-A3E5B6A7E9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1930CD54-B236-4AED-85C2-A3E5B6A7E9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1930CD54-B236-4AED-85C2-A3E5B6A7E9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1930CD54-B236-4AED-85C2-A3E5B6A7E9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853091CF-C039-40A4-B00D-D517AD3CB090}
+	EndGlobalSection
+EndGlobal
